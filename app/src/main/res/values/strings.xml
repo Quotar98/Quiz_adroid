@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">test_przyciski_radio</string>
+    <string name="pytanie">Jaki szczyt jest widoczny na zdjeciu?</string>
+    <string name="sprawdz">Sprawdz Odpowiedz</string>
+    <string name="podpowiedz">Podpowiedz</string>
+    <string name="opis">Szczyt z najdłuższą nazwą na świecie</string>
+    <string name="ok">Dobra odpowiedz</string>
+    <string name="no">Zla odpowiedz</string>
+    <string name="podpowiedz_do_pytania">Nowa zelandia i/n
+        Google Maps - Tajemnice i Ciekawostki 50 od Wiliextreme albo/n
+
+        Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu –
+        wzgórze w Nowej Zelandii o wysokości 305 m n.p.m., blisko miasta Porangahau,
+        w południowej części regionu Hawke’s Bay, nad zatoką Southern Hawke.
+        Nazwa pochodzi z języka maoryskiego i oznacza „szczyt wzgórza, gdzie Tamatea,
+        mężczyzna o wielkich kolanach, zdobywca gór, pożeracz ziemi i podróżnik grał
+        na flecie dla swojej ukochanej”. Pierwsza nazwa ma 57, a druga 85 liter.
+        Obydwie nazwy zostały wpisane do Księgi Rekordów Guinnessa.
+        Jest to jedna z najdłuższych na świecie nazw geograficznych,
+        tak jak w przypadku Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.
+    </string>
+
+</resources>
